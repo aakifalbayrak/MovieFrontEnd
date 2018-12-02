@@ -1,10 +1,9 @@
 
-
-##Program ne yapar...
+Purpose:
 This website is designed to collect the information of movies and their genres in a database and show the movies of a specific genre. For the database I'm using NoSQL and for the database management Couchbase Server Control. 
 
 
-##Ne kullanir...
+Technologies used:
 Database: NoSQL
 Database Manangement: Couchbase
 Backend: Node.js - Express.js
